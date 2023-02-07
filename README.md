@@ -1,6 +1,6 @@
 
 
-# <div align="center">Bitcoin price prediction using ARIMA</div>
+# <div align="center">Bitcoin price prediction using ARIMA, XGBoost, LSTM and FBProphet</div>
 <div align="center"><img src="https://github.com/Pradnya1208/Bitcoin-Price-Prediction-using-ARIMA/blob/main/output/intro.gif?raw=true"></div>
 
 
